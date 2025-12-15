@@ -1,0 +1,11 @@
+{
+  "name": "telegram-chat-id-worker",
+  "version": "1.0.0",
+  "description": "A Cloudflare Worker to get Telegram Chat ID",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
