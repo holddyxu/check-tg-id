@@ -1,5 +1,5 @@
 # Worker 的名字（部署后会显示在 Cloudflare 面板）
-name = "telegram-chat-id-finder"
+name = "check-tg-id"
 
 # 程序入口文件
 main = "worker.js"
