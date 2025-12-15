@@ -1,5 +1,12 @@
 # 🆔 Telegram Chat ID Finder (Cloudflare Worker)
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/holddyxu/check-tg-id/)
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+(后续内容保持不变...)
+
 [English](#english) | [简体中文](#简体中文)
 
 ---
