@@ -5,11 +5,6 @@
 [English](#english) | [简体中文](#简体中文)
 
 ---
-(后续内容保持不变...)
-
-[English](#english) | [简体中文](#简体中文)
-
----
 
 <h2 id="english">English</h2>
 
