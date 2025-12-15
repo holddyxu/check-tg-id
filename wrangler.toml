@@ -1,0 +1,11 @@
+# Worker 的名字（部署后会显示在 Cloudflare 面板）
+name = "telegram-chat-id-finder"
+
+# 程序入口文件
+main = "worker.js"
+
+# 兼容性日期（建议填今天的日期）
+compatibility_date = "2025-12-15"
+
+# 如果你需要更高的兼容性，可以开启 nodejs_compat，但这个脚本纯 JS 并不强制
+# compatibility_flags = ["nodejs_compat"]
