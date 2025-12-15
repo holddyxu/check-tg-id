@@ -11,7 +11,7 @@ A lightweight, serverless tool deployed on Cloudflare Workers to easily retrieve
 ### ✨ Features
 - **Serverless**: Runs entirely on Cloudflare Workers. No server required.
 - **Privacy First**: Your Bot Token is sent directly from the Worker to Telegram. No intermediate data storage.
-- **Multi-language Support**: 🇨🇳 Simplified Chinese, 🇹🇼 Traditional Chinese, 🇺🇸 English, 🇯🇵 Japanese (Auto-detects & persists selection).
+- **Multi-language Support**: Simplified Chinese, Traditional Chinese, English, Japanese (Auto-detects & persists selection).
 - **User Friendly**: 
   - One-click copy for IDs.
   - Friendly error messages (e.g., when a chat is not found).
@@ -46,7 +46,7 @@ A lightweight, serverless tool deployed on Cloudflare Workers to easily retrieve
 ### ✨ 功能特点
 - **无服务器架构**：直接部署在 Cloudflare Worker，无需购买服务器，免费额度足够个人使用。
 - **隐私安全**：代码开源，数据直接从 Worker 请求 Telegram API，不经过任何第三方数据库。
-- **多语言支持**：内置 🇨🇳 简体中文、🇹🇼 繁体中文、🇺🇸 英语、🇯🇵 日语（自动记忆上次选择）。
+- **多语言支持**：内置 简体中文、繁体中文、英语、日语（自动记忆上次选择）。
 - **体验友好**：
   - 支持一键复制 ID。
   - 智能错误提示（例如输入了错误的用户名或 Bot 未入群）。
